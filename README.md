@@ -38,6 +38,7 @@ int led_pin = 13;
 ```
 
 Configuring the Processing sketch
+---------------------------------
 
 You don't need to change this file when changing the analog pins to monitor on the Arduino (except, perhaps, updating the labels)
 

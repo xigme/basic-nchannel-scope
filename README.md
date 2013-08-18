@@ -12,3 +12,8 @@ Quickstart
 4. Open the Arduino sketch and upload to the chip
 5. Open the Processing sketch and run it
 6. Watch live data!
+
+Example output
+--------------
+
+![Sample 8 channel graph](https://github.com/xigme/basic-nchannel-scope/blob/master/example.png "Sample 8 channel graph")

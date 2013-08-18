@@ -13,7 +13,7 @@ Quickstart
 5. Open the Processing sketch and run it
 6. Watch live data!
 
-Example output
+Example Output
 --------------
 
-![Sample 8 channel graph](https://github.com/xigme/basic-nchannel-scope/blob/master/example.png "Sample 8 channel graph")
+![Sample 8 channel graph](https://raw.github.com/xigme/basic-nchannel-scope/master/example.png "Sample 8 channel graph")
